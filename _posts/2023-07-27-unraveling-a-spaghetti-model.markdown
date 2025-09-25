@@ -73,7 +73,7 @@ A. Dealing with methods [Part 3](/toddsedano/2023/07/28/spaghetti-models-safely-
   * Safely extract new public APIs
   * Safely extract new public APIs with value objects
 
-B. Dealing with Active Model [Part 4, coming soon]
+B. Dealing with Active Model [Part 4](/toddsedano/2023/08/30/spaghetti-models-safely-remove-active-record-associations-and-scopes.html)
   * Safely remove scopes
   * Safely remove associations
 
