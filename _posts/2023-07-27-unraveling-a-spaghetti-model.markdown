@@ -77,7 +77,7 @@ B. Dealing with Active Model [Part 4](/toddsedano/2023/08/30/spaghetti-models-sa
   * Safely remove scopes
   * Safely remove associations
 
-C. Dealing with ActiveSupport::Concerns [ Part 5, coming soon ]
+C. Dealing with ActiveSupport::Concerns [Part 5](/toddsedano/2023/09/27/spaghetti-models-safely-remove-active-support-concerns.html)
   * Safely remove active concerns (see other techniques)
   * Sleuthing
 
