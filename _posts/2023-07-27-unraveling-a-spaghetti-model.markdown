@@ -66,7 +66,8 @@ I went through the spaghetti model and moved domain logic into domain packs. Aft
 
 ### Tactics
 A spaghetti model is a collection of methods, associations, scopes, call-backs, and delegated methods. For each of these, I wrote a blog post on how I handled them:
-A. Dealing with methods [Part 3, coming soon]
+
+A. Dealing with methods [Part 3](/toddsedano/2023/07/28/spaghetti-models-safely-remove-methods.html)
   * Safely remove dead methods
   * Safely inline wrapper method
   * Safely extract new public APIs
