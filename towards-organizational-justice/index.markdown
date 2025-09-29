@@ -10,7 +10,7 @@ footer: true
 
 ## The Free Chapter
 <img border="0" src="../images/towards-organizational-justice-143kb.jpg" alt="Free Chapter" width="208" />{: style="float: left; margin-right: 2em"}
-Here is the free Chapter 12: Towards Organizational Justice. The chapter includes practical advise to transform engineering environments. The chapter is from the book, <a href="https://amzn.to/4nAmJl3">Sustainable Dual-Track Development</a> 
+Here is the free Chapter 12: Towards Organizational Justice by Todd Sedano and Paul Ralph. The chapter includes practical advise to transform engineering environments. The chapter is from the book, <a href="https://amzn.to/4nAmJl3">Sustainable Dual-Track Development</a>
 
 <div style="clear: both;" />
 
