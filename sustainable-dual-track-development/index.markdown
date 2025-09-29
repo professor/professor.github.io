@@ -6,7 +6,7 @@ footer: true
 ---
 
 
-<img border="0" src="../images/sustainable-dual-track-development-book-cover-126kb.jpg" alt="Sustainable Dual-Track Development book cover" width="50%" />
+<a href="https://amzn.to/4nAmJl3" class="no-mark-external"><img border="0" src="../images/sustainable-dual-track-development-book-cover-126kb.jpg" alt="Sustainable Dual-Track Development book cover" width="50%" /></a>
 
 
 
